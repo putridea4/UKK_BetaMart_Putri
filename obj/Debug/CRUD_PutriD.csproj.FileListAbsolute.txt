@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\source\repos\CRUD_PutriD\bin\Debug\mydb.accdb
+C:\Users\TOSHIBA\source\repos\CRUD_PutriD\bin\Debug\CRUD_PutriD.exe.config
+C:\Users\TOSHIBA\source\repos\CRUD_PutriD\bin\Debug\CRUD_PutriD.exe
+C:\Users\TOSHIBA\source\repos\CRUD_PutriD\bin\Debug\CRUD_PutriD.pdb
+C:\Users\TOSHIBA\source\repos\CRUD_PutriD\obj\Debug\CRUD_PutriD.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\CRUD_PutriD\obj\Debug\CRUD_PutriD.Form1.resources
+C:\Users\TOSHIBA\source\repos\CRUD_PutriD\obj\Debug\CRUD_PutriD.Properties.Resources.resources
+C:\Users\TOSHIBA\source\repos\CRUD_PutriD\obj\Debug\CRUD_PutriD.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\source\repos\CRUD_PutriD\obj\Debug\CRUD_PutriD.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\CRUD_PutriD\obj\Debug\CRUD_PutriD.exe
+C:\Users\TOSHIBA\source\repos\CRUD_PutriD\obj\Debug\CRUD_PutriD.pdb
